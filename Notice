@@ -1,0 +1,10 @@
+In this project:
+  The OpenCV library function https://github.com/opencv/opencv used Apache License 2.0
+  The MediaPipe library function https://github.com/google/mediapipe used Apache License used Apache License 2.0
+  The pandas library function https://github.com/pandas-dev/pandas used BSD-3-Clause license
+  The PyTorch library function https://github.com/pytorch/pytorch used PyTorch's own license
+  The numpy library function https://github.com/numpy/numpy used BSD-3-Clause license
+  The matplotlib library function https://github.com/matplotlib/matplotlib used matplotlib's own license
+
+
+  This project used OpenCV/MediaPipe/pandas/PyTorch/numpy library function
